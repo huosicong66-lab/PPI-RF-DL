@@ -1,0 +1,9 @@
+2025-08-09 16:54:10,842 enrichr2083442055880::[INFO    ] User defined gene sets is given: c2.cp.v2024.1.Hs.symbols.gmt
+2025-08-09 16:54:10,871 enrichr2083442055880::[INFO    ] Run: c2.cp.v2024.1.Hs.symbols.gmt 
+2025-08-09 16:54:10,871 enrichr2083442055880::[DEBUG   ] Off-line enrichment analysis with library: c2.cp.v2024.1.Hs.symbols.gmt
+2025-08-09 16:54:11,485 enrichr2083442055880::[INFO    ]   Background is not set! Use all 13705 genes in c2.cp.v2024.1.Hs.symbols.gmt.
+2025-08-09 16:54:11,485 enrichr2083442055880::[INFO    ] ['AIRE', 'ASF1A', 'ASF1B', 'ATRX']
+2025-08-09 16:54:11,487 enrichr2083442055880::[INFO    ] ['B3GLCT', 'TEDC2', 'FKBP1A', 'CMC1']
+2025-08-09 16:54:11,632 enrichr2083442055880::[INFO    ] Save enrichment results for c2.cp.v2024.1.Hs.symbols.gmt 
+2025-08-09 16:54:12,457 enrichr2083442055880::[DEBUG   ] Generate figures
+2025-08-09 16:54:12,458 enrichr2083442055880::[INFO    ] Done.
