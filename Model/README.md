@@ -1,33 +1,15 @@
 PPI-RF-DL
 
-This repository contains code for protein–protein interaction (PPI) prediction
-using sequence-based features with deep learning and random forest models.
-
-
-Data description
-
-The PPI data used in this project were obtained from the STRING database.
-
-Database: STRING  
-Version: v12.0  
-Organism: Homo sapiens  
-NCBI taxonomy ID: 9606  
-Original file: 9606.protein.links.detailed.v12.0.txt  
-Filtering rule: combined_score >= 400  
-
-Due to GitHub file size limitations, the original STRING interaction file is not
-included in this repository.
-
+This repository contains code for RF-DL model.
 
 Data download
 
-The raw STRING interaction data can be downloaded from:
+The raw STRING interaction data can be downloaded from:https://string-db.org/cgi/download
 
-https://string-db.org/cgi/download
-
-Please select Homo sapiens (9606) and the protein.links.detailed dataset (v12.0).
-After downloading, apply the same filtering rule used in this project.
-
+Organism: Homo sapiens  
+NCBI taxonomy ID: 9606  
+Original file: 9606.protein.links.detailed.v12.0.txt  
+Filtering rule: combined_score >= 400 
 
 Data preprocessing
 
