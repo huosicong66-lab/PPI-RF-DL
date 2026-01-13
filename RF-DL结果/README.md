@@ -15,3 +15,4 @@ top_proteins_rf_dl.txt: Top-ranked proteins based on RF-DL predictions.
 Subdirectories:
 go_enrichment: GO enrichment analysis results.
 kegg_enrichment: KEGG pathway enrichment analysis results.
+Molecular dynamics: MD analysis results
